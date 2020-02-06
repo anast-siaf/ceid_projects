@@ -1,2 +1,2 @@
 # ceid_projects
-Projects made as an undergraduate student
+Some of projects I made as an undergraduate student
