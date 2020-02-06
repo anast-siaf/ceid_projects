@@ -11,5 +11,6 @@ A=sqrt(3/(M^2-1)); %Eaverage=Eg(M^2-1)/3=1 (proakis sel 392)
 Am = (2*symbols-(M+1))*A;
 s = Am*g_t*cos(2*pi*f_c*(1:T_symbol));
 
+
 end
 
