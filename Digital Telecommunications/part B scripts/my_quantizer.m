@@ -6,7 +6,7 @@ quant_levels=2^N;
 %Arxikopoihsh tou y_q
 y_q= zeros(length(y),1);
 
-%vima kvantismou Ä
+%vima kvantismou Ã„
 quant_step= (abs(min_value)+max_value)/quant_levels;
 
 %ypologismos twn kentrwn
@@ -41,6 +41,4 @@ y_q(j)=centers(y_q(j));
 
 end
 end
-
-
 
