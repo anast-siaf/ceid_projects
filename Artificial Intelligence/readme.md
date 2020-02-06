@@ -4,4 +4,4 @@ This project was made for the purposes of "Artificial Intelligence" undergraduat
 Hanoi Tower Problem file contains description of the problem in Greek. 
 Anafora pdf file contains the report of the project in greek.
 
-In order to execute the code you can use SWI Prolog, which can be found here: https://www.swi-prolog.org/
+In order to test the code you can use [SWI Prolog](https://www.swi-prolog.org/)
