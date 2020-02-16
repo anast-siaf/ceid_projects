@@ -1,4 +1,4 @@
- Internet Technologies
+#### - Internet Technologies
 
 This repository contains the course assignment for the academic period of 2011-2012, done by
 [George Kaffezas](https://github.com/gkffzs), [Aris Magripis](https://github.com/aris-mag) and Tasos Siaflekis. It is a
