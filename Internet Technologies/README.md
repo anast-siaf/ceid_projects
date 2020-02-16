@@ -1,7 +1,7 @@
 ####  Internet Technologies
 
 This repository contains the course assignment for the academic period of 2011-2012, done by
-[George Kaffezas](https://github.com/gkffzs), [Aris Magripis](https://github.com/aris-mag) and Tasos Siaflekis. It is a
+[George Kaffezas](https://github.com/gkffzs), Aris Magripis and Tasos Siaflekis. It is a
 complete web system for image sharing, as described in `assignment.pdf`, developed from scratch. It follows the
 three-tier architecture (data, logic and presentation layer) and has all the functionalities that were specified in the
 assignment. The source code is included in `/www-folder`, and more information are to be found in `report.pdf`
